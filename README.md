@@ -22,7 +22,8 @@
 
 <h1>IRIS_DATASET</H1>
 ![imagename](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs3.amazonaws.com%2Fassets.datacamp.com%2Fblog_assets%2FMachine%2BLearning%2BR%2Firis-machinelearning.png&imgrefurl=http%3A%2F%2Fwww.lac.inpe.br%2F~rafael.santos%2FDocs%2FCAP394%2FWholeStory-Iris.html&tbnid=P-PGjABuYKeYpM&vet=12ahUKEwizr4KF69TqAhWlnksFHTJNAyAQMygBegUIARCyAQ..i&docid=DWcNzEt0Tz4F4M&w=1275&h=477&q=IRIS%20dataset%20info&ved=2ahUKEwizr4KF69TqAhWlnksFHTJNAyAQMygBegUIARCyAQ)
-> > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
+> > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
+* These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 
 ![imagename](https://miro.medium.com/max/2186/1*duZ0MeNS6vfc35XtYr88Bg.png)
 **The above graph is 2D graph of principal component 1 against principal component2**
