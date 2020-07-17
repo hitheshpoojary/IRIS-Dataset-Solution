@@ -7,8 +7,8 @@ PCA is mostly used as a tool in exploratory data analysis and for making predict
 **2.performing eigenvalue decomposition on the covariance matrix.**
 
 <h3>APPLICATION OF PCA:</h3>
-#Quantitative finance->here,principal component analysis can be directly applied to the risk management of interest rate derivative portfolios#
-#Neuroscience->A variant of principal components analysis is used in neuroscience to identify the specific properties of a stimulus that increase a neuron's probability of generating an action potential.#
+##Quantitative finance->here,principal component analysis can be directly applied to the risk management of interest rate derivative portfolios##
+##Neuroscience->A variant of principal components analysis is used in neuroscience to identify the specific properties of a stimulus that increase a neuron's probability of generating an action potential.##
 
 <h3>ADVANTAGES OF PCA:</h3>     
 >1. Removes Correlated Features
