@@ -28,14 +28,15 @@
 * These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 
 ![imagename](https://miro.medium.com/max/2186/1*duZ0MeNS6vfc35XtYr88Bg.png)
+
 **The above graph is 2D graph of principal component 1 against principal component2**
-
-* "Assignment during Online Internship with DLithe(www.dlithe.com)"
-
-
 
  _In this project the accuracy of the model has been calculated using 4 technique:_
  >1. Random Forest classifier.
  >2. KNeighborsClassifier.
  >3. Support Vector Machine.
  >4. Logical Regression.
+ 
+* "Assignment during Online Internship with DLithe(www.dlithe.com)"
+
+
