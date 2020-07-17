@@ -21,7 +21,7 @@
 >2. Data standardization is must before PCA 
 
 <h1>IRIS_DATASET</H1>
-![imagename](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.lac.inpe.br%2F~rafael.santos%2FDocs%2FCAP394%2FWholeStory-Iris.html&psig=AOvVaw0yI5_hFSp_DEePPmNZkJmf&ust=1595095496723000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCp0tbv1OoCFQAAAAAdAAAAABAD)
+![imagename](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png)
 > > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
 * These measures were used to create a linear discriminant model to classify the species. The dataset is often used in data mining, classification and clustering examples and to test algorithms.
 
