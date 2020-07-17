@@ -30,6 +30,10 @@
 ![imagename](https://miro.medium.com/max/2186/1*duZ0MeNS6vfc35XtYr88Bg.png)
 **The above graph is 2D graph of principal component 1 against principal component2**
 
+* "Assignment during Online Internship with DLithe(www.dlithe.com)"
+
+
+
  _In this project the accuracy of the model has been calculated using 4 technique:_
  >1. Random Forest classifier.
  >2. KNeighborsClassifier.
