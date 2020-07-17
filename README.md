@@ -21,6 +21,7 @@
 >2. Data standardization is must before PCA 
 
 <h1>IRIS_DATASET</H1>
+
 ![imagename](https://thegoodpython.com/assets/images/iris-species.png)
 
 > > The Iris Dataset contains four features (length and width of sepals and petals) of 50 samples of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). 
