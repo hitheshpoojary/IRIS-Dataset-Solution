@@ -37,6 +37,6 @@
  >3. Support Vector Machine.
  >4. Logical Regression.
  
-* "Assignment during Online Internship with DLithe(www.dlithe.com)"
+* Assignment during Online Internship with DLithe(www.dlithe.com)
 
 
